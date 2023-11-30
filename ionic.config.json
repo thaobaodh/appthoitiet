@@ -1,0 +1,7 @@
+{
+  "name": "thoitiet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
