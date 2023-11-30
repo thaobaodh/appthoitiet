@@ -25,3 +25,28 @@
 #container a {
   text-decoration: none;
 }
+
+.cardStyle{
+  border-radius: 20px;
+  --ion-background-color: #bbb
+
+  span {
+    color: white;
+    font-weight: 300;
+  }
+
+  #temp {
+    font-weight: 300;
+    font-style: 4em;
+    margin: 5px;
+  }
+
+  #locationIcon{
+    color: #ccc;
+  }
+
+  #date {
+    color: #ccc;
+  }
+}
+
